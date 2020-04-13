@@ -1,0 +1,39 @@
+1 注释方式（三种）
+
+java特有
+文档注释：说明文档
+        /**
+        @author  Tooci
+        @version  v1.0
+        */
+
+java源文件只能有一个public class
+
+
+关键字：
+类、函数、变量修饰符：
+abstract final static synchronized
+类与类关系:
+extends implements
+实例及其相关：
+new this super instanceof
+异常处理：
+try catch finally throw throws
+包：
+package import
+修饰符：
+native stricfp transient volatile assert
+数据类型：
+true false null
+保留字：
+goto  const
+
+标识符命名（类，包，变量，方法，接口）：
+1.26英文，0-9，_,$；2.数字不能开头；3.不能使用关键字和保留字；4.区分大小写；5.不能有空格
+
+包：都小写
+类、接口：单词首字母大写
+变量、方法：第一个单词首字母小写，其他单词首字母大写
+常量:都大写，多单词下划线链接
+
+
